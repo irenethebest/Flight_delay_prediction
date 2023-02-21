@@ -1,5 +1,5 @@
 # Flight_delay_prediction
-midterm project
+
 
 ## Data 
 flights: The departure and arrival information about flights in US in years 2018 and 2019.
